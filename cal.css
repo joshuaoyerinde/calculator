@@ -1,0 +1,87 @@
+.black{
+	background-color: black;
+	color: white;
+	}
+
+.red{
+	background-color: gold;
+	color: white;
+	text-align: center;
+	font-weight: bold;	
+}
+.van{
+	background-color: #5F748A;
+	color: white;
+	font-weight: bold;
+	border-radius: 20px;
+}
+.die{
+	background-color: #D75145;
+}
+.fan{
+	background-color: #AADD62;
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+	width: 23-5%;
+}
+
+button{
+	padding: 3px;
+	width: 70px;
+	border:none;
+	border-radius: 30px;
+	margin-top:7px;
+	height: 45px;
+	outline: none;
+	transition:1s;
+}
+button:hover{
+	background-color: blue;
+	color: black;
+}
+ input{
+	width: 100%;
+	height: 30px;
+	border-radius: 0px;
+	border: none;
+	border-color: inherit; 
+	background-color:#E5DB9B;
+	margin-top: 0px;
+	font-size: 20px;
+	color: black;
+}
+td{
+	border-radius: 9px;
+ 	margin-top: 0px;
+ 	border-width: 30px 10px;
+ 	background-color: #ABB1BA;
+
+
+}
+.side{
+	text-align: right;
+}
+#tab{
+	background-color: grey;
+	
+}
+.green{
+	background-color: #D75145;
+	width: 15%;
+	height: 21%;
+	border-radius: 10px;
+	color: white;
+	font-size: 12px;
+	font-weight: bold;
+	margin-left: 66%;
+}
+.dam{
+	background-color: #D75145;
+	width: 15%;
+	height: 21%;
+	color: white;
+	font-size: 12px;
+	font-weight: bold;
+	margin-left: 2px;
+}
